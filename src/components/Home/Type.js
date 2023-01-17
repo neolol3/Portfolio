@@ -9,6 +9,7 @@ function Type() {
           "Testing leads to failure, and failure leads to understanding",
           "Student",
           "BOTS Developer",
+          "" ,
         ],
         autoStart: true,
         loop: true,
