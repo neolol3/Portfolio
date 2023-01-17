@@ -6,10 +6,9 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Testing leads to failure, and failure leads to understanding",
+          "Developer in Testing Phase",
           "Student",
-          "BOTS Developer",
-          "" ,
+          "$ sudo apt install happiness",
         ],
         autoStart: true,
         loop: true,
