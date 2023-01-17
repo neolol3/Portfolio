@@ -84,7 +84,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://wwww.itspiyush.live"
+                href="https://www.itspiyush.live"
                 target="_blank"
                 rel="noreferrer"
               >
